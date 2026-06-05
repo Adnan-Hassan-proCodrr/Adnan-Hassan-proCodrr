@@ -35,12 +35,26 @@
 ---
 
 ## 📂 Projects
-- Color Changer 🎨
-- Character Counter ✍️
-- Todo App ✅
+
+### 💼 Portfolio Website
+A personal developer portfolio showcasing my skills, projects, and experience.
+🔗 Live Demo: https://adnan-hassan-procodrr-dev.netlify.app
 
 ---
 
-## 📫 Contact
+### 🏋️ Just Fit Gym Landing Page
+A modern and responsive gym landing page designed for fitness business promotion.
+🔗 Live Demo: https://just-fit-gym-webite-hassanprocodrr.netlify.app
+
+---
+
+### 🎧 Headphone Product Landing Page
+A stylish product landing page for showcasing headphones with a clean UI and responsive design.
+🔗 Live Demo: https://headphone-landingpage-hassanprocodrr.netlify.app
+
+---
+
+## 📫 Contact 
+Email 📩: adnanhassanzbi@gmail.com
 - Email: example@gmail.com
 - LinkedIn: your-link
