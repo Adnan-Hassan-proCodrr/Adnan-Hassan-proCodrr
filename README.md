@@ -74,10 +74,10 @@ const adnan = {
       <a href="https://github.com/Adnan-Hassan-proCodrr?tab=repositories">Browse source repositories</a>
     </td>
     <td width="50%" valign="top">
-      <h3>02 / E-commerce Website</h3>
-      <p>A shopping interface focused on product discovery, filtering, sorting, and frontend interactions.</p>
-      <p><code>HTML</code> <code>CSS</code> <code>JavaScript</code></p>
-      <a href="https://github.com/Adnan-Hassan-proCodrr/ecommerce-website-clone"><strong>VIEW SOURCE ↗</strong></a>
+      <h3>06 / SnapBuy — E-commerce</h3>
+      <p>A live e-commerce website showcasing product presentation and shopping interface design.</p>
+      <p><code>Web Development</code> <code>E-commerce</code></p>
+      <a href="https://adnanhassanprocoder-snapbuy.netlify.app/"><strong>LIVE DEMO ↗</strong></a>
     </td>
   </tr>
   <tr>
