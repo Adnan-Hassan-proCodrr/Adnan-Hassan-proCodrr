@@ -1,362 +1,117 @@
-# `> Muhammad Adnan Hassan`
+# Muhammad Adnan Hassan
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=850&lines=Full+Stack+Developer+in+Progress;React+%7C+TypeScript+%7C+Node.js;Building+Real+World+Web+Applications;Frontend+Engineer+%E2%86%92+Backend+Engineer;Code.+Build.+Break.+Debug.+Repeat." />
+  <strong>Frontend Developer | Aspiring MERN Stack Developer</strong>
+  <br />
+  BS Computer Science Student · University of Swabi
 </p>
 
 <p align="center">
-  <a href="https://github.com/Adnan-Hassan-proCodrr">
-    <img src="https://img.shields.io/badge/GitHub-000?style=flat-square&logo=github&logoColor=white"/>
+  <a href="https://adnan-hassan-procodrr-dev.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-0B1220?style=flat-square&logo=netlify&logoColor=22D3EE" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/muhammad-adnan-hassan-540213375/">
-    <img src="https://img.shields.io/badge/LinkedIn-000?style=flat-square&logo=linkedin&logoColor=0A66C2"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0B1220?style=flat-square&logo=linkedin&logoColor=22D3EE" alt="LinkedIn" />
   </a>
   <a href="mailto:adnanhassanzbi@gmail.com">
-    <img src="https://img.shields.io/badge/Email-000?style=flat-square&logo=gmail&logoColor=EA4335"/>
+    <img src="https://img.shields.io/badge/Email-0B1220?style=flat-square&logo=gmail&logoColor=22D3EE" alt="Email" />
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Adnan-Hassan-proCodrr&style=flat-square&label=PROFILE+VIEWS&color=00F7FF"/>
-</p>
-
 ---
 
-```bash
-┌──(adnan㉿github)-[~/developer]
-└─$ whoami
+## About Me
 
-Muhammad Adnan Hassan
-```
+I'm a Computer Science student at the University of Swabi with a strong interest in frontend and full-stack web development.
 
-### `Computer Science Student • Full Stack Developer in Progress`
+I enjoy building responsive user interfaces, exploring modern web technologies, and turning ideas into practical projects. I'm continuously improving my React and TypeScript skills while working toward becoming a job-ready junior full-stack developer.
 
-I build modern web applications and I'm currently expanding from **frontend engineering into backend development**.
+- **Education:** BS Computer Science, University of Swabi (2024–2028)
+- **Focus:** Frontend development and modern web applications
+- **Currently learning:** TypeScript, Redux, Tailwind CSS, Node.js, Express.js, and MongoDB
+- **Goal:** Become a job-ready junior full-stack developer by the end of 2026
 
-My journey started with the browser.
+## Technical Skills
 
-Now I'm learning what happens **behind the browser**.
-
-```text
-Frontend                    Backend
-────────                    ───────
-HTML / CSS                  Node.js
-JavaScript                  HTTP
-React                       REST APIs
-TypeScript                  Express.js
-Responsive UI               Databases
-     │                           │
-     └───────────┬───────────────┘
-                 ▼
-          FULL STACK DEV
-```
-
-> **My goal:** Become a developer who can take an idea from concept → UI → API → database → deployment.
-
----
-
-# `01` — TECH STACK
-
-### `Frontend`
+**Frontend Development**
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,ts" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,ts&theme=dark" alt="HTML, CSS, JavaScript, React and TypeScript" />
 </p>
 
-`HTML5` · `CSS3` · `JavaScript` · `React` · `TypeScript`
+HTML5 · CSS3 · JavaScript · React · TypeScript fundamentals
 
-### `Backend`
+**Currently Learning**
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=redux,tailwind,nodejs,express,mongodb&theme=dark" alt="Redux, Tailwind CSS, Node.js, Express and MongoDB" />
 </p>
 
-`Node.js` · `HTTP` · `REST APIs` · `Express.js`
+Redux · Tailwind CSS · Node.js · Express.js · MongoDB
 
-### `Database`
+**Tools & Development Workflow**
 
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,vite&theme=dark" alt="Git, GitHub, VS Code, npm and Vite" />
 </p>
 
-`MongoDB` · `MySQL` · `CRUD` · `Data Modeling`
+Git · GitHub · VS Code · npm · Vite
 
-### `Tools`
+## Featured Projects
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,vite" />
-</p>
+### Ecommerce Website Clone
 
-`Git` · `GitHub` · `VS Code` · `Postman` · `npm` · `Vite`
+A clothing-store interface with product search, filtering, sorting, and cart functionality.
 
----
+**Technologies:** HTML · CSS · JavaScript
 
-# `02` — CURRENTLY BUILDING MY BACKEND SKILLS
+[View Source Code](https://github.com/Adnan-Hassan-proCodrr/ecommerce-website-clone)
 
-```text
-Node.js
-   │
-   ├── HTTP Server
-   ├── Request / Response
-   ├── HTTP Methods
-   ├── Routing
-   ├── Status Codes
-   │
-   ▼
-Express.js
-   │
-   ├── Middleware
-   ├── REST APIs
-   ├── Controllers
-   └── Error Handling
-   │
-   ▼
-MongoDB
-   │
-   ├── Database
-   ├── Collections
-   ├── Documents
-   └── CRUD
-   │
-   ▼
-Authentication
-   │
-   ├── Login / Register
-   ├── Password Security
-   ├── JWT
-   └── Authorization
-   │
-   ▼
-FULL STACK APPLICATION 🚀
-```
+### Personal Portfolio
 
----
+A personal website showcasing my background, technical skills, education, and web development work.
 
-# `03` — DEVELOPMENT JOURNEY
+**Technologies:** HTML · CSS · JavaScript
 
-### `Frontend`
+[Live Portfolio](https://adnan-hassan-procodrr-dev.netlify.app/)
 
-```diff
-+ HTML
-+ CSS
-+ JavaScript
-+ React
-+ React Router
-+ Context API
-+ API Integration
-+ CRUD Operations
-+ Responsive Design
-```
+### Just Fit — Fitness Website
 
-### `Backend`
+A responsive fitness and gym website focused on layout, visual presentation, and responsive web design.
 
-```diff
-+ Node.js Fundamentals
-+ HTTP Module
-+ Creating Servers
-+ Request & Response
-+ Routing
-+ HTTP Methods
-+ Status Codes
+**Technologies:** HTML · CSS · JavaScript
 
-# Currently going deeper into backend...
-```
+[Live Demo](https://just-fit-gym-webite-hassanprocodrr.netlify.app/)
 
-### `Next Targets`
+### Headphone Landing Page
 
-```text
-[ ] Express.js
-[ ] REST API Architecture
-[ ] MongoDB
-[ ] Authentication
-[ ] Authorization
-[ ] Deployment
-[ ] Full Stack Applications
-```
+A product-focused landing page demonstrating web layout, styling, and interface design.
 
----
+**Technologies:** HTML · CSS · JavaScript
 
-# `04` — PROJECTS
+[Live Demo](https://headphone-landingpage-hassanprocodrr.netlify.app/)
 
-### `01 / Personal Portfolio`
+Explore more projects in my [GitHub repositories](https://github.com/Adnan-Hassan-proCodrr?tab=repositories).
 
-**Modern developer portfolio**
+## Current Learning Focus
 
-`HTML` `CSS` `JavaScript` `Animations`
+- Building practical React applications with TypeScript
+- Improving component design, reusable code, and application structure
+- Learning Redux for state management
+- Exploring Node.js and Express.js for backend development
+- Learning MongoDB and REST API integration
+- Improving Git workflows, documentation, and code quality
 
-→ [Live Project](https://adnan-hassan-procodrr-dev.netlify.app)
+## Let's Connect
 
----
+I'm interested in learning from other developers, collaborating on meaningful projects, and growing through practical software development experience.
 
-### `02 / Just Fit`
-
-**Responsive fitness & gym website**
-
-`HTML` `CSS` `JavaScript` `Responsive Design`
-
-→ [Live Project](https://just-fit-gym-webite-hassanprocodrr.netlify.app)
-
----
-
-### `03 / Headphone Landing Page`
-
-**Modern product landing page**
-
-`HTML` `CSS` `JavaScript` `Responsive UI`
-
-→ [Live Project](https://headphone-landingpage-hassanprocodrr.netlify.app)
-
----
-
-### `04 / More Projects`
-
-I'm continuously building projects while learning new technologies.
-
-```text
-React Projects
-   ↓
-TypeScript Projects
-   ↓
-Node.js Projects
-   ↓
-REST API Projects
-   ↓
-Full Stack Projects
-```
-
-→ [Explore all repositories](https://github.com/Adnan-Hassan-proCodrr?tab=repositories)
-
----
-
-# `05` — HOW I LEARN
-
-I don't want to become someone who can only follow tutorials.
-
-My learning loop:
-
-```text
-       ┌───────────────┐
-       │    LEARN      │
-       └───────┬───────┘
-               ↓
-       ┌───────────────┐
-       │   UNDERSTAND  │
-       └───────┬───────┘
-               ↓
-       ┌───────────────┐
-       │    BUILD      │
-       └───────┬───────┘
-               ↓
-       ┌───────────────┐
-       │     BREAK     │
-       └───────┬───────┘
-               ↓
-       ┌───────────────┐
-       │    DEBUG      │
-       └───────┬───────┘
-               ↓
-       ┌───────────────┐
-       │    IMPROVE    │
-       └───────┬───────┘
-               │
-               └──────────→ REPEAT
-```
-
-> **The goal isn't to know everything.
-> The goal is to keep becoming better.**
-
----
-
-# `06` — GITHUB ACTIVITY
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Adnan-Hassan-proCodrr&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adnan-Hassan-proCodrr&layout=compact&hide_border=true&theme=github_dark" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Adnan-Hassan-proCodrr&theme=github-dark-blue&hide_border=true" />
-</p>
-
----
-
-# `07` — 2026 MISSION
-
-```text
-                    2026
-                     │
-        ┌────────────┼────────────┐
-        ▼            ▼            ▼
-    FRONTEND      BACKEND      PROJECTS
-        │            │            │
-     React       Node.js      Real-world
-   TypeScript    Express       Apps
-        │            │            │
-        └────────────┼────────────┘
-                     ▼
-              FULL STACK DEV
-                     │
-                     ▼
-             Production Ready
-```
-
-### Mission Checklist
-
-* [x] HTML / CSS
-* [x] JavaScript
-* [x] React
-* [x] Git & GitHub
-* [x] TypeScript fundamentals
-* [x] Node.js fundamentals
-* [x] HTTP fundamentals
-* [x] Basic routing
-* [ ] Express.js
-* [ ] REST APIs
-* [ ] MongoDB
-* [ ] Authentication
-* [ ] Full Stack Applications
-* [ ] Deployment
-* [ ] Open Source Contributions
-
----
-
-# `08` — CONNECT
-
-<p align="center">
-
-<a href="https://github.com/Adnan-Hassan-proCodrr">
-<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/muhammad-adnan-hassan-540213375/">
-<img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
-</a>
-
-<a href="mailto:adnanhassanzbi@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-111111?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
-</a>
-
-</p>
+- **Portfolio:** [adnan-hassan-procodrr-dev.netlify.app](https://adnan-hassan-procodrr-dev.netlify.app/)
+- **LinkedIn:** [Muhammad Adnan Hassan](https://www.linkedin.com/in/muhammad-adnan-hassan-540213375/)
+- **Email:** [adnanhassanzbi@gmail.com](mailto:adnanhassanzbi@gmail.com)
 
 ---
 
 <p align="center">
-
-```text
-┌──────────────────────────────────────────┐
-│                                          │
-│   BUILDING TODAY.                        │
-│   LEARNING EVERY DAY.                    │
-│   BECOMING FULL STACK.                   │
-│                                          │
-└──────────────────────────────────────────┘
-```
-
-### `while(alive) { learn(); build(); improve(); }`
-
-**Thanks for visiting my profile. 🚀**
-
+  <i>Learning in public. Building with purpose. Improving every day.</i>
 </p>
