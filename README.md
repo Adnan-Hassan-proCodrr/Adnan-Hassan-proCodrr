@@ -1,181 +1,81 @@
  <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=18&duration=3000&pause=1000&color=63F5E2&center=true&vCenter=true&width=650&lines=ADNAN.EXE+%2F+ENGINEERING+LAB;I+BUILD+TO+UNDERSTAND.;ONE+PROJECT.+ONE+LESSON.+ONE+STEP+FORWARD." alt="Adnan engineering lab" />
+# Adnan Hassan
 
-<br/>
+### Frontend Developer · React & TypeScript
 
-<sub>INDEPENDENT BUILDER &nbsp;·&nbsp; COMPUTER SCIENCE STUDENT &nbsp;·&nbsp; FUTURE FULL-STACK ENGINEER</sub>
+I build modern web interfaces, explore software engineering, and learn by building real projects.
 
-<br/><br/>
-
-<a href="https://github.com/Adnan-Hassan-proCodrr?tab=repositories">PROJECT ARCHIVE</a>
-&nbsp; ◈ &nbsp;
-<a href="https://adnan-hassan-procodrr-dev.netlify.app">LIVE PORTFOLIO</a>
+<a href="https://github.com/Adnan-Hassan-proCodrr"><img src="https://img.shields.io/badge/GitHub-Profile-161B22?style=for-the-badge&logo=github&logoColor=64FFDA" alt="GitHub"/></a>
+<a href="https://adnan-hassan-procodrr-dev.netlify.app"><img src="https://img.shields.io/badge/Portfolio-Visit-161B22?style=for-the-badge&logo=googlechrome&logoColor=64FFDA" alt="Portfolio"/></a>
 
 </div>
 
 ---
 
-### 01 / THE OPERATOR
+## About Me
 
-```text
-USER       >  Muhammad Adnan Hassan
-POSITION   >  Frontend Developer
-EDUCATION  >  BS Computer Science · University of Swabi
-ENVIRONMENT>  React · TypeScript · JavaScript
-DIRECTION  >  Full-Stack MERN + AI Engineering
-```
+- 🎓 BS Computer Science student at the University of Swabi.
+- 💻 Focused on frontend development with React and TypeScript.
+- 🛠️ Interested in clean code, reusable components, and application architecture.
+- 🌱 Learning backend development and working toward the MERN stack.
+- 🎯 Goal: grow into a capable full-stack engineer through practical experience.
 
-I am a computer science student focused on building useful, responsive web applications and understanding the engineering behind them.
+## Tech Stack
 
-I care about more than making a UI look good. I want to understand component architecture, application state, data flow, API integration, and the decisions that make software easier to maintain.
-
-My approach is to learn through implementation, solve problems independently, and improve through feedback.
-
-### 02 / THE TOOLCHAIN
-
-**INTERFACE ENGINEERING**
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,ts&theme=dark" alt="HTML CSS JavaScript React TypeScript"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react&theme=dark" alt="HTML, CSS, JavaScript, TypeScript and React"/>
 </p>
 
-`HTML` / `CSS` / `JavaScript` / `React` / `TypeScript`
+## Frameworks & Libraries
 
-**DEVELOPER WORKFLOW**
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vite,npm&theme=dark" alt="Git GitHub VS Code Vite npm"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=redux,tailwind&theme=dark" alt="Redux and Tailwind CSS"/>
 </p>
 
-`Git` / `GitHub` / `VS Code` / `Vite` / `npm`
+## Tools & Platforms
 
-**SYSTEMS IN PROGRESS**
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,redux,tailwind&theme=dark" alt="Node Express MongoDB Redux Tailwind CSS"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vite,npm,postman,netlify&theme=dark" alt="Git, GitHub, VS Code, Vite, npm, Postman and Netlify"/>
 </p>
 
-`Node.js` / `Express` / `MongoDB` / `Redux` / `Tailwind CSS`
+## Currently Learning
 
-<sub>Core stack: frontend technologies. Systems in progress: technologies I am learning or exploring, not claiming mastery of.</sub>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark" alt="Node.js, Express and MongoDB"/>
+</p>
 
-### 03 / THE BUILD LOG
+## Projects
 
-Projects are experiments in turning concepts into working software.
+A selection of my learning projects and frontend work.
 
-<table>
-<tr>
-<td width="50%" valign="top">
+| Project | Description | Link |
+|---|---|---|
+| **React API & CRUD** | API integration and CRUD operations | [Repository ↗](https://github.com/Adnan-Hassan-proCodrr/react-api-integ-CRUD-operations) |
+| **TypeScript Lab** | TypeScript concepts and practical exercises | [Repository ↗](https://github.com/Adnan-Hassan-proCodrr/mastering-typesicript) |
+| **React Practice Journey** | Hands-on React practice | [Repository ↗](https://github.com/Adnan-Hassan-proCodrr/react-practice-journey) |
+| **Headphone Landing Page** | Product-focused frontend design | [Live Demo ↗](https://headphone-landingpage-hassanprocodrr.netlify.app) |
+| **Just Fit Gym Website** | Gym website and responsive UI | [Live Demo ↗](https://just-fit-gym-webite-hassanprocodrr.netlify.app) |
 
-**01 — React API / CRUD**
+**[Explore all my repositories →](https://github.com/Adnan-Hassan-proCodrr?tab=repositories)**
 
-API integration and create, read, update, and delete workflows.
-
-`REACT` `API INTEGRATION`
-
-<a href="https://github.com/Adnan-Hassan-proCodrr/react-api-integ-CRUD-operations">↗ Inspect repository</a>
-
-</td>
-<td width="50%" valign="top">
-
-**02 — TypeScript Lab**
-
-A learning repository for TypeScript fundamentals and type-safe code.
-
-`TYPESCRIPT` `TYPE SYSTEMS`
-
-<a href="https://github.com/Adnan-Hassan-proCodrr/mastering-typesicript">↗ Inspect repository</a>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**03 — React Practice Journey**
-
-Practical exercises and experiments with React fundamentals.
-
-`REACT` `JAVASCRIPT`
-
-<a href="https://github.com/Adnan-Hassan-proCodrr/react-practice-journey">↗ Inspect repository</a>
-
-</td>
-<td width="50%" valign="top">
-
-**04 — Headphone Landing Page**
-
-A product-focused web interface and frontend layout project.
-
-`WEB UI` `RESPONSIVE DESIGN`
-
-<a href="https://headphone-landingpage-hassanprocodrr.netlify.app">↗ Open live demo</a>
-
-</td>
-</tr>
-<tr>
-<td colspan="2">
-
-**05 — Just Fit Gym Website**
-
-A gym website exploring page structure, visual hierarchy, and responsive interfaces.
-
-<a href="https://just-fit-gym-webite-hassanprocodrr.netlify.app">↗ Open live demo</a>
-
-</td>
-</tr>
-</table>
+## GitHub Statistics
 
 <div align="center">
-<a href="https://github.com/Adnan-Hassan-proCodrr?tab=repositories"><strong>EXPLORE THE FULL REPOSITORY ARCHIVE →</strong></a>
-</div>
 
-### 04 / ACTIVE RESEARCH
-
-| Track | Current direction |
-|:--|:--|
-| UI engineering | React, TypeScript, reusable components |
-| Application design | Routing, state management, component architecture |
-| Data integration | APIs, async workflows, CRUD |
-| Backend foundations | Node.js, Express, MongoDB |
-| Emerging technologies | AI engineering fundamentals |
-
-**Next objective:** build increasingly complete applications while strengthening fundamentals instead of collecting technologies without practical experience.
-
-### 05 / ACTIVITY TELEMETRY
-
-<div align="center">
 <a href="https://github.com/Adnan-Hassan-proCodrr">
-<img src="https://github-readme-stats.vercel.app/api?username=Adnan-Hassan-proCodrr&show_icons=true&hide_border=true&bg_color=080D16&title_color=63F5E2&text_color=C8D6E5&icon_color=63F5E2" width="95%" alt="GitHub overview"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Adnan-Hassan-proCodrr&show_icons=true&hide_border=true&bg_color=0D1117&title_color=64FFDA&text_color=C9D1D9&icon_color=64FFDA" alt="GitHub statistics"/>
 </a>
-
-<br/><br/>
-
 <a href="https://github.com/Adnan-Hassan-proCodrr">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adnan-Hassan-proCodrr&layout=compact&hide_border=true&bg_color=080D16&title_color=63F5E2&text_color=C8D6E5" alt="Repository language distribution"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adnan-Hassan-proCodrr&layout=compact&hide_border=true&bg_color=0D1117&title_color=64FFDA&text_color=C9D1D9" alt="Most used languages"/>
 </a>
 
 </div>
 
-<sub>Telemetry is generated by external services. Language distribution reflects repository contents, not proficiency. Cards may be unavailable temporarily.</sub>
-
-### 06 / CONNECTION PORT
+---
 
 <div align="center">
 
-<a href="https://github.com/Adnan-Hassan-proCodrr">
-<img src="https://img.shields.io/badge/GITHUB-SOURCE_CODE-101C29?style=for-the-badge&logo=github&logoColor=63F5E2" alt="GitHub"/>
-</a>
-<a href="https://adnan-hassan-procodrr-dev.netlify.app">
-<img src="https://img.shields.io/badge/PORTFOLIO-DEPLOYED-101C29?style=for-the-badge&logo=googlechrome&logoColor=63F5E2" alt="Portfolio"/>
-</a>
-
-<br/><br/>
-
-<code>STATUS: LEARNING → BUILDING → REFINING</code>
-
-<br/><br/>
-
-<sub>Made by curiosity. Improved by practice. Defined by the work.</sub>
+**Learn continuously. Build intentionally. Improve every day.**
 
 </div>
